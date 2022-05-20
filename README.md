@@ -3,7 +3,7 @@
 This repo has our custom shell project, which attempts to replicate some of the
 processes of the 'sh' shell or 'bash' shell.
 For more information view the blog post of Ibrahim Morketa & Simegnew Misganaw
-[at](https://medium.com/@ibrahimbsc8/simple-shell-a-custom-shell-command-line-interpreter-a0d11d5b219f)
+[here](https://medium.com/@ibrahimbsc8/simple-shell-a-custom-shell-command-line-interpreter-a0d11d5b219f)
 
 ### C language standard functions and system calls utilized
 
@@ -54,5 +54,5 @@ $ ls -la
 2. [Ahmed Muritala](https://github.com/amurtala)                                                         
 
 ## Ref
-Ibrahim Morketa
-Simegnew Misganaw 
+* Ibrahim Morketa
+* Simegnew Misganaw 
