@@ -1,8 +1,9 @@
 ## Description
 
 This repo has our custom shell project, which attempts to replicate some of the
-processes of the 'sh' shell or 'bash' shell.for more information view our blog post at
-https://medium.com/@ibrahimbsc8/simple-shell-a-custom-shell-command-line-interpreter-a0d11d5b219f
+processes of the 'sh' shell or 'bash' shell.
+For more information view the blog post of Ibrahim Morketa & Simegnew Misganaw
+[here](https://medium.com/@ibrahimbsc8/simple-shell-a-custom-shell-command-line-interpreter-a0d11d5b219f)
 
 ### C language standard functions and system calls utilized
 
@@ -46,8 +47,8 @@ command with flags.  This command lists directory contents.
 ```
 $ ls -la
 ```
+                                                         
 
-## Authors
-
-Ibrahim Morketa - https://github.com/ibrisha/
-Simegnew Misganaw - https://github.com/simegnew-m/
+## Ref
+* Ibrahim Morketa
+* Simegnew Misganaw 
