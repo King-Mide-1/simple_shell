@@ -47,11 +47,7 @@ command with flags.  This command lists directory contents.
 ```
 $ ls -la
 ```
-
-## Authors
-
-1. [Olumide Micheal](https://github.com/King-Mide-1)
-2. [Ahmed Muritala](https://github.com/amurtala)                                                         
+                                                         
 
 ## Ref
 * Ibrahim Morketa
