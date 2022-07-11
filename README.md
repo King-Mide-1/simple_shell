@@ -50,5 +50,5 @@ $ ls -la
                                                          
 
 ## Ref
-* Olumide Micheal Tolulop <olumidemicheal7@gmail.com>
+* Olumide Micheal Tolulope <olumidemicheal7@gmail.com>
 * Ahmed Gbadamosi
